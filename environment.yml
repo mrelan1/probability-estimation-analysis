@@ -1,0 +1,13 @@
+name: prob-est
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+prefix: /opt/anaconda3/envs/prob-est

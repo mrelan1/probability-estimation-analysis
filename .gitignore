@@ -1,0 +1,25 @@
+# Bytecode cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Sensitive config (real Firebase key)
+config/serviceAccountKey.json
+
+# Generated data
+data/derived/*
+data/exports/*
+data/figures/*
+
+# OS files
+.DS_Store
+
+.venv/

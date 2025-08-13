@@ -1,0 +1,6 @@
+firebase-admin
+numpy
+pandas
+matplotlib
+scipy
+jupyter
